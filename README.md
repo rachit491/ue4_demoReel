@@ -17,12 +17,13 @@ Note that it takes about 15-20 minutes to load before it becomes responsive due 
 ### Screencast
 #### Overview of the scene
 Focusing on the scene layout, level of detail, terrain rendering, meshes and models used, wind foliage effects, textures, global illumination.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sz1vAvZOFh4" frameborder="0" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Sz1vAvZOFh4/0.jpg)](https://www.youtube.com/watch?v=Sz1vAvZOFh4)
+(https://youtu.be/Sz1vAvZOFh4)
 
 #### Player wandering in the scene
 Major focus on the rains (particle effects), clouds animations, weather changes, wind foliage effects, day-night cycle, buoyancy, reflection, refraction in water bodies.
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7SiBUEqVCrI/0.jpg)](https://www.youtube.com/watch?v=7SiBUEqVCrI)
+(https://youtu.be/7SiBUEqVCrI)
 
 ## Controls
 While using the Unreal Engine 4, launch the game in viewport. Left click within the viewport and the control goes to the viewport. Use the keys mentioned below to move around in the scene. And press Escape to exit from the game.
