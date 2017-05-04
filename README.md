@@ -29,7 +29,13 @@ Just press R key to switch Rain on/off, it takes few seconds to come into effect
 ### Build Steps
 
 ## Claims
-
+### Terrain 
+I've used the Sculpt Tool provided in the Unreal Engine 4 to create the terrain of my own, alternative way was to use height maps of pre-defined terrains. The terrain is then painted with three different textures for grass, mud and rock. The terrain has been made uneven as it would be in a natural scene.
+### Water Body
+I've created multiple water bodies in the environment, and have made waves over them. Also these water bodies display reflections and refractions near to what is experienced in reality. 
+### Global Illumination
+### Particle Effect
+### Multiple Weather/Daytime Effects
 
 ## Asset Credits
 ### Trees and Grass Models
