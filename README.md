@@ -1,10 +1,10 @@
 # CSC 562 Advance Graphics Final Project
 
 ## Description
-This demo reel, created as a final project for [Advanced Graphics class](http://cg4games.csc.ncsu.edu), demonstrates several graphics techniques like Terrain Rendering, Level of Detail, Reflection, Global Illumination, Particle Effects. The scene shows a layout with mountains, hills, water bodies, natural vegetation, with effects of daytime and weather changes (rain/sunny) and involves a third person camera view.
+This demo reel, created as a final project for [Advanced Graphics class](http://cg4games.csc.ncsu.edu), demonstrates several graphics rendering techniques like Level of Detail, Terrain Rendering, Reflection, Global Illumination, Particle Effects. The scene shows a layout with mountains, hills, water bodies, natural vegetation, with effects of daytime and weather changes (rain/sunny) and involves a third person camera view.
 
 ## Live Demo
-Visit the following URL to run the program:
+Visit the following URL to run the code:
 
 http://www4.ncsu.edu/~rshriva/DemoReel/DemoReel.html
 
@@ -32,10 +32,9 @@ Just press R key to switch Rain on/off, it takes few seconds to come into effect
 
 
 ## Asset Credits
-
 ### Trees and Grass Models
 Metal Game Studios for providing free assets for the vegetations which were used in the demo reel 
 https://forums.unrealengine.com/showthread.php?59812-Free-Foliage-Starter-Kit
 
-### Sky, Clouds
+### Sky, Clouds, and some Terrain Textures
 Unreal Engine Starter Kit which has materials for sky and clouds
