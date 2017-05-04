@@ -15,6 +15,13 @@ Note that it takes about 15-20 minutes to load before it becomes responsive due 
 2. Blender - to edit some meshes
 
 ### Screencast
+#### Overview of the scene
+Focusing on the scene layout, level of detail, terrain rendering, meshes and models used, wind foliage effects, textures, global illumination.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sz1vAvZOFh4" frameborder="0" allowfullscreen></iframe>
+
+
+#### Player wandering in the scene
+Major focus on the rains (particle effects), clouds animations, weather changes, wind foliage effects, day-night cycle, buoyancy, reflection, refraction in water bodies.
 
 
 ## Controls
@@ -25,8 +32,7 @@ Walk around using the arrow keys, or regular W, A, S, D as you move a player in 
 ### Key Toggles
 Just press R key to switch Rain on/off, it takes few seconds to come into effect.
 
-## Building from Scratch
-### Build Steps
+## Build Steps
 
 ## Claims
 ### Terrain 
@@ -34,8 +40,11 @@ I've used the Sculpt Tool provided in the Unreal Engine 4 to create the terrain 
 ### Water Body
 I've created multiple water bodies in the environment, and have made waves over them. Also these water bodies display reflections and refractions near to what is experienced in reality. 
 ### Global Illumination
+I've used the Lightmass property of Unreal Engine 4 which enables to control the Global Illumination parameter. Although it is visible when you're in a closed room environment. It was a difficult task to implement in an open scene like this. For this I've created feww grass within the river water and when the camera view goes inside the water, slight greenish-blue can be observed near the grass area because of this lightmass settings.
 ### Particle Effect
-### Multiple Weather/Daytime Effects
+The game shows particle effect, with the use of Particle Emitter functionality provided in the Unreal Editor. The rain drops created have a transluscent texture and also with refractive index, which can be seen from the screencast video.
+### Multiple Weather/Daytime Effects (Extra)
+The demo showcases the day-night cycle for the environment. It starts off with a stage where the clouds becomes denser and darker and it rains when you press R. When you stop the Rain, it starts to clear the dense clouds and at the same time the sun (directional light) rotates the sky sphere changing the color of the sky and shadows for the models/objects in the scene. With the sunrise, you can see a sunny day with clear blue skies.
 
 ## Asset Credits
 ### Trees and Grass Models
