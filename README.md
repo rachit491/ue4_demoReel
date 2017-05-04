@@ -13,6 +13,7 @@ Note that it takes about 15-20 minutes to load before it becomes responsive due 
 ### Requirements
 1. Unreal Engine 4.15.0 or above - to open the project
 2. Blender - to edit some meshes
+3. Go to have a Dedicated Graphics Card in your Machine 
 
 ### Screencast
 #### Overview of the scene
@@ -38,7 +39,11 @@ Building the project is pretty simple. Just few steps to keep in mind.
 
 1. Install Unreal Engine 4.15.0 or above, and paste the repository folder called "DemoReel" in the Unreal Projects folder in Documents in your system.
 2. As the project opens in Unreal Engine 4, it starts to Compile Shaders which will take around 5 minutes to complete.
-3. Once that is done, search for Engine Contents folder in your system and replace the contents of "Engine Sky" within it with the given "Engine Sky" in the repo under "Extras" folder
+3. Once that is done, search for Engine Contents folder in your system and replace the contents of "Engine Sky" within it with the given "Engine Sky" in the repo under "Extras" folder.
+4. Once that is done, refresh the project and rebuild the lights and compile the shaders again or reopen the project again.
+5. Look for SkySphereBlueprint in the World Outliners tab in Editor and open the BluePirnt. Make sure you see some content for Cloud Opacity and Branch in the "Update Sun Direction" function of the BluePrint, as shown below
+![alt text](http://url/to/img.png)
+6. If that is shown as expected, you're good to go and Play the game. 
 
 ## Claims
 ### Terrain 
