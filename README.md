@@ -34,7 +34,11 @@ Walk around using the arrow keys, or regular W, A, S, D as you move a player in 
 Just press R key to switch Rain on/off, it takes few seconds to come into effect.
 
 ## Build Steps
+Building the project is pretty simple. Just few steps to keep in mind. 
 
+1. Install Unreal Engine 4.15.0 or above, and paste the repository folder called "DemoReel" in the Unreal Projects folder in Documents in your system.
+2. As the project opens in Unreal Engine 4, it starts to Compile Shaders which will take around 5 minutes to complete.
+3. Once that is done, search for Engine Contents folder in your system and replace the contents of "Engine Sky" within it with the given "Engine Sky" in the repo under "Extras" folder
 
 ## Claims
 ### Terrain 
@@ -45,7 +49,7 @@ I've created multiple water bodies in the environment, and have made waves over 
 I've used the Lightmass property of Unreal Engine 4 which enables to control the Global Illumination parameter. Although it is visible when you're in a closed room environment. It was a difficult task to implement in an open scene like this. For this I've created feww grass within the river water and when the camera view goes inside the water, slight greenish-blue can be observed near the grass area because of this lightmass settings.
 ### Particle Effect
 The game shows particle effect, with the use of Particle Emitter functionality provided in the Unreal Editor. The rain drops created have a transluscent texture and also with refractive index, which can be seen from the screencast video.
-### Multiple Weather/Daytime Effects (Extra)
+### Multiple Weather/DayNight Cycle Effects (Extra)
 The demo showcases the day-night cycle for the environment. It starts off with a stage where the clouds becomes denser and darker and it rains when you press R. When you stop the Rain, it starts to clear the dense clouds and at the same time the sun (directional light) rotates the sky sphere changing the color of the sky and shadows for the models/objects in the scene. With the sunrise, you can see a sunny day with clear blue skies.
 ### Wind Effect Foilage (Extra)
 I've added wind effect to the vegetations - grass and tree leaves which can be seen from the demo videos on a closer look. It makes the vegetations swift away in the winds.
