@@ -61,12 +61,12 @@ The demo showcases the day-night cycle for the environment. It starts off with a
 ### Wind Effect Foilage (Extra)
 I've added wind effect to the vegetations - grass and tree leaves which can be seen from the demo videos on a closer look. It makes the vegetations swift away in the winds.
 
-## Asset Credits
-### Trees and Grass Models
+## Credits
+### Trees and Grass Models/Assets
 Metal Game Studios for providing free assets for the vegetations which were used in the demo reel 
 https://forums.unrealengine.com/showthread.php?59812-Free-Foliage-Starter-Kit
 
-### Sky, Clouds, and some Terrain Textures
+### Sky, Clouds, and some Terrain Textures Assets
 Unreal Engine Starter Kit which has materials for sky and clouds
 
 [GameDev1909 Gaming and Guides](https://www.youtube.com/channel/UCzoVL1aVjec7YKPeG59xKFg) Youtube channel for their Beginner Tutorials on Unreal Engine 4
