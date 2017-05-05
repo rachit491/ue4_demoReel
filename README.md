@@ -1,5 +1,7 @@
 # CSC 562 Advance Graphics Final Project
 
+Rachit Shrivastava | rshriva@ncsu.edu
+
 ## Description
 This demo reel, created as a final project for [Advanced Graphics class](http://cg4games.csc.ncsu.edu), demonstrates several graphics rendering techniques like Level of Detail, Terrain Rendering, Reflection, Global Illumination, Particle Effects. The scene shows a layout with mountains, hills, water bodies, natural vegetation, with effects of daytime and weather changes (rain/sunny) and involves a third person camera view.
 
