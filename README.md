@@ -6,8 +6,7 @@ Rachit Shrivastava | rshriva@ncsu.edu
 This demo reel, created as a final project for [Advanced Graphics class](http://cg4games.csc.ncsu.edu), demonstrates several graphics rendering techniques like Level of Detail, Terrain Rendering, Reflection, Global Illumination, Particle Effects. The scene shows a layout with mountains, hills, water bodies, natural vegetation, with effects of daytime and weather changes (rain/sunny) and involves a third person camera view.
 
 ## Live Demo
-Visit the following URL to run the code: http://www4.ncsu.edu/~rshriva/DemoReel/DemoReel.html
-Note that it takes about 15-20 minutes to load before it becomes responsive due to the large size of the UE4 .data file. Unfortunately the demo isn't working, there's something wrong with the game server.
+Unfortunately the demo in git-pages isn't working, since file sizes are pretty big there's something wrong with the game server.
 
 The entire 3.4GB of Unreal Project folder is shared on Google Drive, accessible at only NCSU Network: https://drive.google.com/open?id=0B5jyD3ul3WReLWZKS2pVWkh5NnM
 
