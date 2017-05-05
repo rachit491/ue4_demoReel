@@ -68,3 +68,5 @@ https://forums.unrealengine.com/showthread.php?59812-Free-Foliage-Starter-Kit
 
 ### Sky, Clouds, and some Terrain Textures
 Unreal Engine Starter Kit which has materials for sky and clouds
+
+[GameDev1909 Gaming and Guides](https://www.youtube.com/channel/UCzoVL1aVjec7YKPeG59xKFg) Youtube channel for their Beginner Tutorials on Unreal Engine 4
